@@ -1,0 +1,13 @@
+{
+    "asset": "81d684637b9b40648b8b84fabd63f7e1",
+    "fileName": "0198d67f-dc1d-7adb-9418-a84a4196588e.wav",
+    "prompt": "shock wave effect, sound of wind pressure",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "a65c0272befcf4cbb7f73a682b041a9a",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}
